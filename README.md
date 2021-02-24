@@ -33,14 +33,7 @@ npx devtobias
 
 I'm always happy to connect with different people so don't hesitate to do so! 😄
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### A short summary about me...
+<h3 align="left">A short summary about me...</h3>
 
 ```javascript
 const devtobias = {
@@ -65,16 +58,23 @@ const devtobias = {
 }
 ```
 
+<h3 align="left">Blog posts:</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobias&show_icons=true&locale=en&layout=compact" alt="devtobias" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devtobias&show_icons=true&locale=en" alt="devtobias" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devtobias&show_icons=true&locale=en" alt="devtobias" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtobias&" alt="devtobias" /></p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobias&show_icons=true&locale=en&layout=compact" alt="devtobias" /></p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/infotition"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infotition" /></a></p><br><br>
