@@ -13,7 +13,8 @@
 - ⚡ Fun fact **Think Twice Code Once!**
 <!-- - 📄 Know about my experiences [-comming soon-](-comming soon-) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtobias" alt="devtobias" /></a> </p>
+<p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api?username=devtobias&show_icons=true&locale=en&theme=dracula&hide=prs,issues" alt="devtobias" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -66,15 +67,12 @@ const devtobias = {
 
 ---
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devtobias&show_icons=true&locale=en" alt="devtobias" /></p>
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtobias&show_icons=true&locale=en&layout=compact" alt="devtobias" /></p>
+<p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p>
 
+<p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/top-langs?username=devtobias&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devtobias" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/infotition"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infotition" /></a></p><br><br>
