@@ -68,19 +68,19 @@ const devtobias = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79152%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81452%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 98 Contributions in the Year 2021
+> 🏆 100 Contributions in the Year 2021
  > 
 > 📦 29.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -113,14 +113,14 @@ Sunday       3 commits      █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 48 mins             █████████████████░░░░░░░░   70.26% 
-YAML                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.74%
+Markdown                 1 hr 26 mins        ████████████████████░░░░░   80.58% 
+YAML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.42%
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+VS Code                  1 hr 47 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.0%
+Windows                  1 hr 47 mins        █████████████████████████   100.0%
 
 ```
 
