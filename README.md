@@ -70,7 +70,7 @@ const devtobias = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p>
+<!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
 
 <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/top-langs?username=devtobias&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devtobias" /></p>
 
@@ -78,7 +78,7 @@ const devtobias = {
 <p><a href="https://www.buymeacoffee.com/infotition"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infotition" /></a></p><br><br>
 
 [infotition-github]: https://github.com/Infotition
-[devtobias-repo]: https://github.com/Infotition
+[devtobias-repo]: https://github.com/DevTobias/personal-npx-card
 [website]: https://tobias-kaerst.de
 [twitter]: https://twitter.com/tobias_kaerst
 [linkedin]: https://www.linkedin.com/in/tobias-kärst
