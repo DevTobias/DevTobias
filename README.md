@@ -68,19 +68,19 @@ const devtobias = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-188-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81943%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84737%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 104 Contributions in the Year 2021
+> 🏆 106 Contributions in the Year 2021
  > 
-> 📦 29.9 kB Used in Github's Storage 
+> 📦 30.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
