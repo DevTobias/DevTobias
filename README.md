@@ -74,7 +74,7 @@ const devtobias = {
 
 **🐱 My Github Data** 
 
-> 🏆 113 Contributions in the Year 2021
+> 🏆 120 Contributions in the Year 2021
  > 
 > 📦 30.0 kB Used in Github's Storage 
  > 
