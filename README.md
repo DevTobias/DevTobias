@@ -76,7 +76,7 @@ const devtobias = {
 
 > 🏆 183 Contributions in the Year 2021
  > 
-> 📦 30.1 kB Used in Github's Storage 
+> 📦 30.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,7 +128,7 @@ Windows                  11 hrs 12 mins      ███████████�
 ```
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
