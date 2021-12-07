@@ -70,7 +70,7 @@ const devtobias = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64356%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -113,22 +113,18 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       █████████████░░░░░░░░░░░░   51.61% 
-HTML                     2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   39.19% 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-SCSS                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
+JSON                     3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  7 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 36 mins       █████████████████████████   100.0%
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
