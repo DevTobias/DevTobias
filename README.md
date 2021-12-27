@@ -68,7 +68,7 @@ const devtobias = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64%20Thousand%20lines%20of%20code-blue)
 
@@ -113,22 +113,18 @@ Sunday       39 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ██████████████████████░░░   89.77% 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/12/2021
+ Last Updated on 27/12/2021
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
