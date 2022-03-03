@@ -113,18 +113,22 @@ Sunday       32 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 hrs 42 mins       ███████████████████████░░   92.72% 
+XML                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11% 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 hrs 19 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/03/2022 00:58:13 UTC
+ Last Updated on 03/03/2022 00:58:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
