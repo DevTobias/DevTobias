@@ -68,7 +68,7 @@ const devtobias = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
@@ -128,7 +128,7 @@ Windows                  8 hrs 19 mins       ███████████�
 ```
 
 
- Last Updated on 03/03/2022 00:58:15 UTC
+ Last Updated on 05/03/2022 00:58:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
