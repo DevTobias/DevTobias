@@ -78,7 +78,7 @@ const devtobias = {
 
 > 🏆 468 Contributions in the Year 2022
  > 
-> 📦 25.5 kB Used in GitHub's Storage 
+> 📦 25.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,8 +86,47 @@ const devtobias = {
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 14/09/2022 01:30:19 UTC
+```text
+🌞 Morning    46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
+🌆 Daytime    206 commits    █████████░░░░░░░░░░░░░░░░   38.79% 
+🌃 Evening    210 commits    ██████████░░░░░░░░░░░░░░░   39.55% 
+🌙 Night      69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       107 commits    █████░░░░░░░░░░░░░░░░░░░░   20.15% 
+Tuesday      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+Wednesday    104 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59% 
+Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+Saturday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
+Sunday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 15/09/2022 01:55:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
