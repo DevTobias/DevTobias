@@ -78,7 +78,7 @@ const devtobias = {
 
 > 🏆 473 Contributions in the Year 2022
  > 
-> 📦 36.6 kB Used in GitHub's Storage 
+> 📦 87.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,7 +126,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/10/2022 01:43:19 UTC
+ Last Updated on 24/10/2022 01:58:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
