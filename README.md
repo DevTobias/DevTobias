@@ -86,47 +86,8 @@ const devtobias = {
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-🌆 Daytime    204 commits    ██████████░░░░░░░░░░░░░░░   39.77% 
-🌃 Evening    195 commits    █████████░░░░░░░░░░░░░░░░   38.01% 
-🌙 Night      69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
-Tuesday      74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Wednesday    100 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
-Thursday     83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
-Friday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
-Sunday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.59%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 09/11/2022 01:22:15 UTC
+ Last Updated on 10/11/2022 01:22:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
