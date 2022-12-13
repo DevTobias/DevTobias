@@ -72,11 +72,11 @@ const devtobias = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 505 Contributions in the Year 2022
+> 🏆 512 Contributions in the Year 2022
  > 
 > 📦 145.6 kB Used in GitHub's Storage 
  > 
@@ -86,47 +86,8 @@ const devtobias = {
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
-🌆 Daytime    198 commits    █████████░░░░░░░░░░░░░░░░   38.08% 
-🌃 Evening    208 commits    ██████████░░░░░░░░░░░░░░░   40.0% 
-🌙 Night      69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Wednesday    116 commits    █████░░░░░░░░░░░░░░░░░░░░   22.31% 
-Thursday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Friday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
-Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
-Sunday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 12/12/2022 01:09:10 UTC
+ Last Updated on 13/12/2022 01:12:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
