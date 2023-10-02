@@ -70,7 +70,7 @@ const devtobias = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-949.3%20thousand%20lines%20of%20code-blue)
 
@@ -82,9 +82,9 @@ const devtobias = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 37 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -123,7 +123,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/10/2023 00:59:17 UTC
+ Last Updated on 02/10/2023 00:53:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
