@@ -68,6 +68,8 @@ const devtobias = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176.8%20thousand%20lines%20of%20code-blue)
@@ -76,7 +78,7 @@ const devtobias = {
 
 > 📦 388.6 kB Used in GitHub's Storage 
  > 
-> 🏆 504 Contributions in the Year 2024
+> 🏆 521 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,7 +123,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/10/2024 01:10:16 UTC
+ Last Updated on 24/10/2024 01:09:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
