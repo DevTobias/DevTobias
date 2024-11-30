@@ -78,8 +78,6 @@ const devtobias = {
 
 > 📦 388.6 kB Used in GitHub's Storage 
  > 
-> 🏆 601 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -123,7 +121,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/11/2024 01:14:17 UTC
+ Last Updated on 30/11/2024 01:12:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
