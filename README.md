@@ -68,6 +68,8 @@ const devtobias = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183.3%20thousand%20lines%20of%20code-blue)
@@ -76,7 +78,7 @@ const devtobias = {
 
 > 📦 388.6 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2025
+> 🏆 51 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,8 +86,44 @@ const devtobias = {
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 10/01/2025 01:12:11 UTC
+```text
+🌞 Morning                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+🌆 Daytime                206 commits         ████████████░░░░░░░░░░░░░   46.09 % 
+🌃 Evening                162 commits         █████████░░░░░░░░░░░░░░░░   36.24 % 
+🌙 Night                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Tuesday                  140 commits         ████████░░░░░░░░░░░░░░░░░   31.32 % 
+Wednesday                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Thursday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Friday                   7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Saturday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 11/01/2025 01:10:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
