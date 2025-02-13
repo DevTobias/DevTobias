@@ -1,141 +1,74 @@
-<h1 align="center">Hi 👋, I'm Tobias - aka Founder of <a href="https://github.com/Infotition">Infotition</a></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?&color=F7F7F7&center=true&size=30&lines=Hi+%F0%9F%91%8B;I'm+Tobias+;Maintainer+of+TK+Software" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h3 align="left">I'm a Computer Science student, Developer and Teacher!</h3>
-
-- 🔭 I’m currently working on [Infotition](https://github.com/Infotition)
-- 🌱 I’m currently learning **Fullstack Web Development**
-- 🤝 I’m looking for help with [Infotition](https://github.com/Infotition)
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DevTobias)
-- 📝 I regularly write articles on [Medium](https://medium.com/@infotition)
-- 💬 Ask me about **web dev and computer science**
-- 📫 How to reach me **tobi.kaerst@gmx.de**
-- 🎯 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact **Think Twice Code Once!**
-<!-- - 📄 Know about my experiences [-comming soon-](-comming soon-) -->
-
-<p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api?username=devtobias&show_icons=true&locale=en&theme=dracula&hide=prs,issues" alt="devtobias" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
-
-👇 Type this command in your terminal to connect with me. This npm package can be found at [devtobias][devtobias-repo].
-```
-npx devtobias
-```
-
-<p align="left">
-<a href="https://twitter.com/tobias_kaerst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tobias_kaerst" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tobias-kärst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tobias-kärst" height="30" width="40" /></a>
-<a href="https://instagram.com/tobias_kaerst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tobias_kaerst" height="30" width="40" /></a>
-<a href="https://medium.com/@infotition" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@infotition" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tobiaslogix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tobiaslogix" height="30" width="40" /></a>
-<a href="https://discord.gg/NpxrDGYDwV" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NpxrDGYDwV" height="30" width="40" /></a>
+<p align="center">
+  <h3 align="center">I'm a professional fullstack developer, Learner & Gamer from Germany! 🚀</h3>
+  <br>
+  <div align="center">🔭 I’m currently working at the <a href="https://pcg.io">Public Cloud Group</a>.</div>
+  <div align="center">💻 I love to learn new technologies and frameworks.</div>
+  <div align="center">🌱 I’m currently developing an infinite recipe planner tool and an virtual whiteboard editor framework from scratch.</div>
+  <div align="center">📝 I try to find motivation to write articles on <a href="https://medium.com/@devtobias">Medium</a> (as you can see, it's going great so far haha).</div>
+  <div align="center">💬 You can see my go to technologies below if you are this interested.</div>
 </p>
 
-I'm always happy to connect with different people so don't hesitate to do so! 😄
+<br>
 
-<h3 align="left">A short summary about me...</h3>
+<div align="center">
+   <a href="mailto:contact@tobiaskaerst.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tobiaskaerst">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tobiaskaerst">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="30" alt="discord logo"  />
+  </a>
+</div>
 
-```javascript
-const devtobias = {
-    pronouns: "He" | "Him",
-    askMeAbout: "web dev", "tech", "computer science", "teaching" ,
-    technologies: {
-        frontend: {
-          js: ["react", "next", "angular"],
-          css: ["bootstrap", "tailwind"],
-        },
-        backend: {
-            js: ["node", "express", "nest"],
-            python: ["flask"],
-        }
-        devOps: ["docker"],
-        databases: ["mongodb", "mysql", "sqlite"],
-        languages: ["pascal", "visual basic", "c#", "c++", "c", "python", "java", "javascript"],
-        misc: ["jest", "circleci", "algorithms & data structures"]
-    },
-    architecture: ["progressive web apps", "single page apps"],
-    currentFocus: ["developing the infotition platform"]
-}
-```
+<br>
 
-<h3 align="left">Blog posts:</h3>
+## Disclaimer
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+> ✨ All the projects you can find in my main profile are just small demo repositories or small and cool archived projects of my past. If you want to see my actual, current and mostly maintained projects, feel free to visit my [TK Software](https://github.com/tobias-kaerst-software) GitHub organization.
 
+## Favorite Technologies
 
----
+<h4 align="left">Languages and Frameworks</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+</div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2045%20mins-blue)
+<h4 align="right">Deployment & Infrastructure</h3>
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<h4 align="left">Database technologies</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.6%20thousand%20lines%20of%20code-blue)
+<br>
 
-**🐱 My GitHub Data** 
-
-> 📦 365.9 kB Used in GitHub's Storage 
- > 
-> 🏆 201 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-🌆 Daytime                102 commits         ██████████████░░░░░░░░░░░   55.43 % 
-🌃 Evening                48 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-🌙 Night                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   46 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  65 commits          █████████░░░░░░░░░░░░░░░░   35.33 % 
-Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Thursday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Saturday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Sunday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 13/02/2025 01:08:54 UTC
-<!--END_SECTION:waka-->
-
-<!-- <p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/wakatime?username=devtobias&theme=dracula" alt="devtobias" /></p> -->
-
-<p><img align="center" src="https://devtobias-github-readme-stats.vercel.app/api/top-langs?username=devtobias&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devtobias" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/infotition"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infotition" /></a></p><br><br>
-
-[infotition-github]: https://github.com/Infotition
-[devtobias-repo]: https://github.com/DevTobias/personal-npx-card
-[website]: https://tobias-kaerst.de
-[twitter]: https://twitter.com/tobias_kaerst
-[linkedin]: https://www.linkedin.com/in/tobias-kärst
-[instagram]: https://www.instagram.com/tobias_kaerst
+<img src="https://raw.githubusercontent.com/DevTobias/DevTobias/output/snake.svg" alt="Snake animation" />
